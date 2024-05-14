@@ -1,0 +1,143 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css" integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
+  <link href="./css/body1.css" rel="stylesheet"> 
+  <title>Document</title>
+ </head>
+ <body>
+ <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-7ymO4nGrkm372HoSbq1OY2DP4pEZnMiA+E0F3zPr+JQQtQ82gQ1HPY3QIVtztVua" crossorigin="anonymous"></script>
+  <nav class="navbar navbar-expand-lg navbar-light bg-light"><div class="container">
+	 
+
+<a class="navbar-brand"href="#"><img src="./images/logo.jpg" width=100px height=100px></a>
+<div class="collapse navbar-collapse"id="navbarcollapse">
+<ul class="navbar-nav">
+<li class="nav-item">
+<a class="nav-link"href="#">首页</a>
+</li>
+<li class="nav-item dropdown">
+<a class="nav-link dropdown-toggle"href="#"id="dropdownMenuLink"role="button"data-toggle="dropdown"aria-expanded="false">宠物种类</a>
+<ul class="dropdown-menu"aria-labelledby="dropdownMenuLink">
+<li><a href="#"class="dropdown-item">猫</a></li>
+<li><a href="#"class="dropdown-item">狗</a></li></ul>
+</li>
+<li class="nav-item dropdown">
+<a class="nav-link dropdown-toggle"href="#"id="dropdownMenuLink2"role="button"data-toggle="dropdown"aria-expanded="false">培养指南
+</a>
+<ul class="dropdown-menu"aria-labelledby="dropdownMenuLink2">
+<li><a href="#"class="dropdown-item">饮食健康</a></li>
+<li><a href="#"class="dropdown-item">基本训练</a></li>
+</ul>
+</li>
+<li class="nav-item dropdown">
+<a class="nav-link"href="#">宠物百科
+</a>
+
+</li>
+
+</ul>
+</div>
+<button class="navbar-toggler"type="button"data-toggle="collapse"data-target="#navbarcollapse"
+aria-controls="navbarcollapse"aria-expanded="false"aria-label="Toggle navigation">
+
+	 </div>
+</nav>
+  
+
+
+
+
+
+
+
+
+
+
+<div id="itro">在繁忙的都市生活中，宠物成为了越来越多家庭不可或缺的一员。为了给这些可爱的小生命提供一个温馨的家，同时也为宠物爱好者提供一个交流、分享的平台，我们倾力打造了“宠物之家”网站。这是一个集宠物资讯、在线购物、交流社区于一体的综合性宠物服务平台，旨在为每一位宠物主人提供全方位的服务和便利。</div>
+
+
+  <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+  <ol class="carousel-indicators">
+    <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+  </ol>
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="images/lunbo1.jpg" class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="images/lunbo2.jpg" class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="images/lunbo3.jpg" class="d-block w-100" alt="...">
+    </div>
+  </div>
+  <button class="carousel-control-prev" type="button" data-target="#carouselExampleIndicators" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-target="#carouselExampleIndicators" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </button>
+</div>
+
+<div class="album py-5 text">
+<div class="container">
+<div class="row">
+<div class="col-md-3">
+<h2>宠物种类</h2>
+
+宠物之家汇聚了众多宠物种类，包括但狗狗、猫咪。每一种宠物都有其独特的魅力和特点。例如，狗狗忠诚活泼，是家庭的最佳守护者；猫咪优雅独立，是都市生活的理想伴侣。我们为每一种宠物都提供了详细的介绍和养护指南，帮助您选择最适合自己的宠物伙伴。
+</div><!—第1列-->
+<div class="col-md-3">
+<h2>饮食健康</h2>
+
+宠物的饮食健康是宠物主人最为关心的问题之一。宠物之家为您提供了丰富的饮食健康知识，包括宠物的营养需求、饮食搭配、喂食频率等。我们与众多知名品牌和优质供应商合作，为您精选高品质的宠物食品，确保宠物的饮食安全健康。同时，我们还提供了宠物饮食搭配的建议和食谱分享，帮助您为宠物制定科学合理的饮食计划。
+</div><!—第2列-->
+<div class="col-md-3">
+<h2>基本训练</h2>
+
+宠物训练是宠物成长过程中必不可少的一环。宠物之家为您提供了专业的宠物训练指南，包括狗狗的社交训练、行为纠正、技能训练等；猫咪的如厕训练、抓板训练等。我们邀请了业内知名的宠物训练师和专家，为您提供实用的训练技巧和方法。通过科学的训练，您可以让宠物更加听话、懂事，成为您生活中的得力助手。
+
+</div><!—第3列-->
+<div class="col-md-3">
+<h2>宠物百科</h2>
+
+宠物百科是宠物之家的一大特色模块，我们收录了丰富的宠物知识和信息，包括宠物的品种介绍、习性特点、养护技巧、疾病防治等。无论您是宠物新手还是资深爱好者，都可以在这里找到您感兴趣的内容。同时，我们还提供了在线咨询服务，为您解答在养宠过程中遇到的问题和困惑。
+
+</div><!—第3列-->
+</div>
+</div>
+
+
+
+
+
+
+
+
+ <footer>
+        <nav>
+            <ul>
+                <li><a href="#"> 帮助中心 |</li>
+                <li> <a href="mailto:ise_Webteam@ujn.edu.cn">&nbsp;联系我们 </a>|</li>
+                <li><a href="#"> &nbsp;关于我们  </a>|</li>
+                <li><a href="#"> &nbsp;隐私声明  </a>|</li>
+                <li><a href="#"> &nbsp;意见反馈  </a></li>
+            </ul>
+        </nav>
+        <address><a href="http://www.ujn.edu.cn">Copyright &copy; 济南大学Web前端课程团队</a></address>
+    </footer>
+
+
+ </body>
+</html>

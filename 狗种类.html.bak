@@ -1,0 +1,239 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Document</title>
+  <link href="css/bootstrap.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css" integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
+  <link href="./css/body1.css" rel="stylesheet"> 
+
+
+
+    <style>
+
+body{
+background-color: rgb(247, 207, 162);
+}
+	#head{
+	background-image:url("images/tou1.jpg");
+	height:200px;
+
+	}
+      .bd-placeholder-img {
+        font-size: 1.125rem;
+        text-anchor: middle;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        user-select: none;
+      }
+
+      @media (min-width: 768px) {
+        .bd-placeholder-img-lg {
+          font-size: 3.5rem;
+        }
+      }
+  .col-md-5 img{
+  width:500px;
+  height:500px;
+  border-radius:50px;
+  }
+  body{
+    background-color: white;
+  }
+ 
+    .main div{
+
+flex:1;
+
+width:200px;
+
+height:50px;
+
+margin:20px;
+
+padding-top: 5px;
+padding-bottom: 5px;
+padding-left: 20px;
+padding-right: 20px;
+border:1px ;
+
+text-align: center;
+
+}
+.main{
+
+display:flex;
+
+}
+.neirong{
+        width:900px;
+        height:400px;
+        float:right;
+    }
+   
+    </style>
+
+    
+    <!-- Custom styles for this template -->
+    <link href="css/main.css" rel="stylesheet">
+ </head>
+ <body>
+  <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-7ymO4nGrkm372HoSbq1OY2DP4pEZnMiA+E0F3zPr+JQQtQ82gQ1HPY3QIVtztVua" crossorigin="anonymous"></script>
+
+  <nav class="navbar navbar-expand-lg navbar-light bg-light" id="head"><div class="container">
+	 
+
+<a class="navbar-brand"href="#"><img src="./images/logo.jpg" width=100px height=100px></a>
+<div class="collapse navbar-collapse"id="navbarcollapse">
+<ul class="navbar-nav">
+<li class="nav-item">
+<a class="nav-link"href="首页.html">首页</a>
+</li>
+<li class="nav-item dropdown">
+<a class="nav-link dropdown-toggle"href="#"id="dropdownMenuLink"role="button"data-toggle="dropdown"aria-expanded="false">宠物种类</a>
+<ul class="dropdown-menu"aria-labelledby="dropdownMenuLink">
+<li><a href="猫猫种类.html"class="dropdown-item">猫</a></li>
+<li><a href="#"class="dropdown-item">狗</a></li></ul>
+</li>
+<li class="nav-item dropdown">
+<a class="nav-link dropdown-toggle"href="#"id="dropdownMenuLink2"role="button"data-toggle="dropdown"aria-expanded="false">培养指南
+</a>
+<ul class="dropdown-menu"aria-labelledby="dropdownMenuLink2">
+<li><a href="#"class="dropdown-item">饮食健康</a></li>
+<li><a href="#"class="dropdown-item">基本训练</a></li>
+</ul>
+</li>
+<li class="nav-item dropdown">
+<a class="nav-link"href="#">宠物百科
+</a>
+
+</li>
+
+</ul>
+</div>
+<button class="navbar-toggler"type="button"data-toggle="collapse"data-target="#navbarcollapse"
+aria-controls="navbarcollapse"aria-expanded="false"aria-label="Toggle navigation">
+
+	 </div>
+</nav>
+  
+
+
+<div class="row featurette">
+      <div class="col-md-7">
+        <h2 class="featurette-heading">萨摩耶犬<span class="text-muted">Samoyed       </span></h2>
+        <p class="lead">别称萨摩耶，原是西伯利亚的原住民萨摩耶族培育出的犬种。该犬全身长有浓密的被毛，毛长适中且直；头呈楔形；眼睛颜色深为佳，两眼凹陷，间距大，为杏仁形；鼻梁较长，鼻端、口周多呈黑色，嘴角上翘；直立的耳朵很厚，呈三角形，尖端略圆；脚大而长，比较平，似野兔的足，趾稍分开；趾尖呈拱形肉垫厚而硬，趾之间有保护的毛，脚圆形或似猫足。到了20世纪，它常被人们用于极地探险，并受到世界各地爱狗人士的喜欢。</p>
+      </div>
+      <div class="col-md-5">
+        <img src="images/smy.jpg" height="500px" width="500px">
+      </div>
+    </div>
+    <hr class="featurette-divider">
+
+
+
+
+
+<div class="row featurette">
+      <div class="col-md-7 order-md-2">
+        <h2 class="featurette-heading">西伯利亚雪橇犬<span class="text-muted">Siberian Husky</span></h2>
+        <p class="lead">原产于西伯利亚的雪橇犬犬种，也叫哈士奇、二哈。该犬脚步轻快，动作优美，身体紧凑，有着很厚的被毛，耳朵直立，尾如毛刷，显示出北方地区的遗传特征。该犬是和狼的血统非常近的犬种，所以外形非常的像狼，有着比大多数犬种都要厚的毛发。 </p>
+      </div>
+      <div class="col-md-5 order-md-1">
+        <img src="images/hsq.jpg" height="500px" width="500px">  
+
+      </div>
+    </div>
+    <hr class="featurette-divider">
+
+
+
+<div class="row featurette">
+      <div class="col-md-7">
+        <h2 class="featurette-heading">金毛寻回犬<span class="text-muted">Golden Retriever       </span></h2>
+        <p class="lead">金毛寻回犬，原产于英国，又称黄金猎犬、金毛寻回猎犬、金毛犬、金毛。其体高55-60厘米，体重25-35千克，头骨宽，呈轻微拱形；眼中等大小，色深，间距大；耳根高，耳小，下垂，紧贴面颊；牙齿呈剪状咬合；颈中等长；前肢直，后肢宽，膝关节充分弯曲；尾根高，尾长垂过跗关节；双层被毛，毛直或略呈波浪状，内层被毛浓密、柔软，毛色呈有光泽的金黄色。 因金毛寻回猎犬打猎时，能够帮助主人衔回猎物而得名</p>
+      </div>
+      <div class="col-md-5">
+        <img src="images/jm.jpg" height="500px" width="500px">
+      </div>
+    </div>
+    <hr class="featurette-divider">
+
+
+
+
+
+<div class="row featurette">
+      <div class="col-md-7 order-md-2">
+        <h2 class="featurette-heading">贵宾犬<span class="text-muted">Poodle</span></h2>
+        <p class="lead">贵宾犬原产于法国和欧洲中部地区。 其头颅顶部稍圆，眉头虽浅但很清晰，面颊平坦；眼睛颜色很深呈卵圆形，两眼间距宽，眼神机警；吻部长直而纤细；颈部强壮，颈长可以使头部抬起；胸部深而扩张，肋部伸展；后脚跟短，与地面垂直； 皮毛颜色有黑色、白色、棕色、银灰色、杏色、红色等， 被毛较硬，密生卷毛、短毛、绢状毛。 </p>
+      </div>
+      <div class="col-md-5 order-md-1">
+        <img src="images/gb.jpg" height="500px" width="500px">  
+
+      </div>
+    </div>
+    <hr class="featurette-divider">
+
+
+
+
+
+<div class="row featurette">
+      <div class="col-md-7">
+        <h2 class="featurette-heading">拉布拉多猎犬<span class="text-muted">Labrador retriever    </span></h2>
+        <p class="lead">
+拉布拉多猎犬是起源于加拿大的纽芬兰岛，最早被训练在冰冷的海上将渔网收回和担任搬运工作的一种猎犬。19世纪，纽芬兰的渔夫们将该犬贩卖到英格兰，此后引起世人的关注。该犬看起来具有强健的身体，很活跃。它的腰部上方颇宽，后半身有力、肌肉发达，被毛贴身、短、浓密且无长毛掺杂其间。该犬很喜欢玩水、游泳；通常不具备其他犬类的麻烦特征，如占地盘、搞破坏、攻击人类或小动物等。
+</p>
+      </div>
+      <div class="col-md-5">
+        <img src="images/lbld.jpg" height="500px" width="500px">
+      </div>
+    </div>
+    <hr class="featurette-divider">
+
+
+
+
+
+
+
+<div class="row featurette">
+      <div class="col-md-7 order-md-2">
+        <h2 class="featurette-heading">边境牧羊犬<span class="text-muted">Border Collie</span></h2>
+        <p class="lead">
+	边境牧羊犬，是食肉目犬科狼属哺乳动物， 边境牧羊犬的起源可远溯到公元前五世纪至公元前一世纪，西欧大陆和不列颠群岛上的凯尔特人，带着牧羊犬来到爱尔兰，并称这些牧羊犬为柯利(Collie)，在凯尔特人的方言里，Collie的意思就是“有用处的”，1915年，柯利犬正式以边境牧羊犬来命名。 该犬中等体型，头部宽阔；眼睛中等大小，卵形；耳朵竖立或半立；尾巴中等长度；前肢骨骼发达，后肢骨量充足
+ </p>
+      </div>
+      <div class="col-md-5 order-md-1">
+        <img src="images/bj.jpg" height="500px" width="500px">  
+
+      </div>
+    </div>
+    <hr class="featurette-divider">
+
+
+
+
+ <footer>
+        <nav>
+            <ul>
+                <li><a href="#"> 帮助中心 |</li>
+                <li> <a href="mailto:ise_Webteam@ujn.edu.cn">&nbsp;联系我们 </a>|</li>
+                <li><a href="#"> &nbsp;关于我们  </a>|</li>
+                <li><a href="#"> &nbsp;隐私声明  </a>|</li>
+                <li><a href="#"> &nbsp;意见反馈  </a></li>
+            </ul>
+        </nav>
+        <address><a href="http://www.ujn.edu.cn">Copyright &copy; 济南大学Web前端课程团队</a></address>
+    </footer>
+
+
+ </body>
+</html>

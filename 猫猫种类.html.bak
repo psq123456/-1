@@ -1,0 +1,280 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+	<title>白居易-个人生平</title>
+    
+    <!-- Bootstrap core CSS -->
+	<link href="css/bootstrap.min.css" rel="stylesheet">
+	<link href="./css/body1.css" rel="stylesheet"> 
+
+
+
+    <style>
+	#head{
+	background-image:url("images/tou1.jpg");
+	height:200px;
+	font-size:25px;
+
+	}
+	.navbar-brand img{
+	border-radius:50px;
+	}
+
+
+	body{
+	background-color: rgb(247, 207, 162);
+	}
+      .bd-placeholder-img {
+        font-size: 1.125rem;
+        text-anchor: middle;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        user-select: none;
+      }
+
+      @media (min-width: 768px) {
+        .bd-placeholder-img-lg {
+          font-size: 3.5rem;
+        }
+      }
+     .col-md-5 img{
+  width:500px;
+  height:500px;
+  border-radius:50px;
+  }
+  
+  .img1{
+        width:1500px;
+        height:150px;
+        border-radius:0px;
+    }
+    .main div{
+
+flex:1;
+
+width:200px;
+
+height:50px;
+
+margin:20px;
+
+padding-top: 5px;
+padding-bottom: 5px;
+padding-left: 20px;
+padding-right: 20px;
+border:1px ;
+
+text-align: center;
+
+}
+.main{
+
+display:flex;
+
+}
+.neirong{
+        width:900px;
+        height:400px;
+        float:right;
+    }
+    .img2{
+        width:400px;
+        height:400px;
+    }
+  .maomao{
+    height: 50px;
+    width: 1500px;
+    background-color: rgb(31, 13, 13);
+  }
+  .maomao1{
+    padding-left: 20px;
+    font-size: 30px;
+    color: aliceblue;
+  }
+    </style>
+
+    
+    <!-- Custom styles for this template -->
+    <link href="css/main.css" rel="stylesheet">
+  </head>
+  <body>
+   <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-7ymO4nGrkm372HoSbq1OY2DP4pEZnMiA+E0F3zPr+JQQtQ82gQ1HPY3QIVtztVua" crossorigin="anonymous"></script>
+
+  <nav class="navbar navbar-expand-lg navbar-light bg-light" id="head"><div class="container">
+	 
+
+<a class="navbar-brand"href="#"><img src="./images/logo.jpg" width=100px height=100px></a>
+<div class="collapse navbar-collapse"id="navbarcollapse">
+<ul class="navbar-nav">
+<li class="nav-item">
+<a class="nav-link"href="首页.html">首页</a>
+</li>
+<li class="nav-item dropdown">
+<a class="nav-link dropdown-toggle"href="#"id="dropdownMenuLink"role="button"data-toggle="dropdown"aria-expanded="false">宠物种类</a>
+<ul class="dropdown-menu"aria-labelledby="dropdownMenuLink">
+<li><a href="猫猫种类.html"class="dropdown-item">猫</a></li>
+<li><a href="狗种类.html"class="dropdown-item">狗</a></li></ul>
+</li>
+<li class="nav-item dropdown">
+<a class="nav-link dropdown-toggle"href="#"id="dropdownMenuLink2"role="button"data-toggle="dropdown"aria-expanded="false">培养指南
+</a>
+<ul class="dropdown-menu"aria-labelledby="dropdownMenuLink2">
+<li><a href="#"class="dropdown-item">饮食健康</a></li>
+<li><a href="#"class="dropdown-item">基本训练</a></li>
+</ul>
+</li>
+<li class="nav-item dropdown">
+<a class="nav-link"href="#">宠物百科
+</a>
+
+</li>
+
+</ul>
+</div>
+<button class="navbar-toggler"type="button"data-toggle="collapse"data-target="#navbarcollapse"
+aria-controls="navbarcollapse"aria-expanded="false"aria-label="Toggle navigation">
+
+	 </div>
+</nav>
+  
+
+  <img class="img2" src="images/qwe.jpg">
+<div class="neirong">
+    <h1>猫</h1>
+    <p>  猫（拉丁学名：Felis silvestris catus），是食肉目猫科猫属 的脊索动物。 猫体型小，
+    体色由蓝灰色到棕黄色，体型瘦削，身长0.3-0.5米，全身毛被密而柔软，锁骨小，吻部短，眼睛圆，颈部粗壮，四肢较短，
+    足下有数个球形肉垫；舌面被有角质层的丝状钩形乳突。猫雌雄性个体彼此相似，仅雄性头部粗圆，个体大些。</p> 
+    <p>猫的繁殖与生育期长达一生，寿命有12-17年。据宋朝陆游《嘲畜猫》诗自注：“俗言猫为虎舅，教虎百为，
+    惟不教上树”。故别称“虎舅”。猫分布范围广泛，从热带雨林、沙漠荒丘到寒冷的草原和高原，可以分布在除南极洲以外的每一个大陆上。
+    猫不喜群居，有领地观念，一旦遭到入侵便会发起攻击，且有极高的攀爬本领。</p> 
+    <p>猫为肉食性动物，野外靠捕食鼠、鸟、鱼等小动物为生，喜食荤腥，有偏食的特点。
+    猫作为家庭宠物，可以缓解人们的心理压力、满足人们的情感需求。且就其捕捉老鼠一项，
+    每年就能为人类挽回巨额的经济损失。猫文化在人类驯养家猫之初便已出现，这时的猫被尊为“圣兽”，
+    而且在古埃及早期艺术中兼具太阳神和月亮神的双重身份。</p>
+    <p>2023年10月25日，据《科学》杂志报道，研究人员用视频记录了194分钟猫的面部表情，随后对所有面部肌肉运动进行了编码，
+    结果发现猫共有276种不同的面部表情，而且这些表情很可能是在其与人类相处的过程中逐步进化出来的</p></div>
+    <hr class="featurette-divider">
+    <div class="row featurette">
+      <div class="col-md-7">
+        <h2 class="featurette-heading">布偶猫 <span class="text-muted">Ragdoll</span></h2>
+        <p class="lead">布偶猫（Ragdoll）又称布拉多尔猫，是猫中体形和体重较大的一种。布偶猫于1960年开始繁育，1965年在美国获得认可。布偶猫头呈V形，眼大而圆，被毛丰厚，四肢粗大，身体柔软，多为三色或双色猫 。
+          布偶猫全身非常松弛，像软绵绵的布偶一样。它性格温顺、恬静，对人非常友善，对疼痛的忍受性相当强，常被误认为缺乏疼痛感。它非常能容忍孩子的玩耍，也因此被称为布偶猫，是非常理想的家养宠物</p>
+      </div>
+      <div class="col-md-5">
+        <img src="images/buou.jpg" height="500px" width="500px">
+
+      </div>
+    </div>
+
+    <hr class="featurette-divider">
+
+    <div class="row featurette">
+      <div class="col-md-7 order-md-2">
+        <h2 class="featurette-heading"> 橘猫<span class="text-muted">Felis silvestris catus</span></h2>
+        <p class="lead">橘猫，是食肉目猫科动物。橘猫的全身为黄色，大多为短毛，有极少数是长毛，是中华田园猫中较为常见的毛色；身上的斑纹极像虎皮的纹路，所以又被称为虎斑猫。公橘猫诞生的概率是母橘猫的三倍，体重比其他花色的公猫较重。 [3]因为全身为黄色而得名，又被称作黄猫，黄狸猫。</p>
+      </div>
+      <div class="col-md-5 order-md-1">
+        <img src="images/jumao.jpg" height="500px" width="500px">
+
+      </div>
+    </div>
+
+    <hr class="featurette-divider">
+
+    <div class="row featurette">
+      <div class="col-md-7">
+        <h2 class="featurette-heading">沙特尔猫<span class="text-muted">blue cat        </span></h2>
+        <p class="lead">卡尔特猫又名英国蓝猫。卡尔特猫被毛致密，柔软光滑，酷似水貂皮。各种色调的灰色均可见到，其中浅灰色最受欢迎；体型粗大；肩、胸宽大，颈粗壮，四肢肌肉发达；步态高雅；头圆形，三角形嘴突，直鼻，耳位较高，两颊饱满，上下颌突出，唇呈黑色；圆眼呈金黄色或铜黄色，有的为橘红色；眼神甜蜜、自信、自然；尾巴长而壮，经常托在背上 [3]。卡尔特猫是卡尔特派修道士从北非带回卡尔特修道院饲养的猫。它们的毛泛着和僧侣服装同样美丽的光泽，因而得名卡尔特猫。</p>
+      </div>
+      <div class="col-md-5">
+        <img src="images/lanmao.jpg" height="500px" width="500px">
+      </div>
+    </div>
+    <hr class="featurette-divider">
+
+    <div class="row featurette">
+      <div class="col-md-7 order-md-2">
+        <h2 class="featurette-heading">美短<span class="text-muted">American Shorthair</span></h2>
+        <p class="lead">美国短毛猫原产于美国。关于其起源有两种说法，一部分人认为该猫是美洲大陆土著猫，经长期选育而成，另一部分人认为它是17世纪从欧洲随移民带入美国后，经改良而育成。 [9]美国短毛猫体格强壮，肌肉发达，脸呈圆形，眼睛大小适中；脊背平直，胸部浑圆；背毛柔而厚，毛色与波斯猫相似，并以银色条纹为珍贵，雄性体型比雌性稍大。美国短毛猫又称短毛家猫。 </p>
+      </div>
+      <div class="col-md-5 order-md-1">
+        <img src="images/duanmao.jpg" height="500px" width="500px">  
+
+      </div>
+    </div>
+    <hr class="featurette-divider">
+
+    <div class="row featurette">
+      <div class="col-md-7">
+        <h2 class="featurette-heading">英短银渐层<span class="text-muted">British Shorthair Cat</span></h2>
+        <p class="lead">英短银渐层是由英国短毛猫（蓝灰色）与金吉拉猫繁育而出的英短品种色，具备了金吉拉猫白色的毛色，又具备了英国短毛猫重要的特征。在银渐层的繁育过程中，出现了毛色为点状色的金点、银点、金渐层、蓝金渐层等。</p>
+      </div>
+      <div class="col-md-5">
+        <img src="images/yinjianceng.jpg" height="500px" width="500px">
+      </div>
+    </div>
+    <hr class="featurette-divider">
+
+    <div class="row featurette">
+      <div class="col-md-7 order-md-2">
+        <h2 class="featurette-heading">异国短毛猫<span class="text-muted">ExoticShorthair</span></h2>
+        <p class="lead">异国短毛猫，诞生于20世纪60年代， [3]是波斯猫和美国短毛猫交配而产下的猫种。异国短毛猫体型中等，头大而圆，脸颊丰腴，口吻短宽而强壮有力；耳朵小，耳端浑圆而前倾，耳间距宽；眼睛圆，稍凸出；背短而水平；四肢短而粗，结实，前肢直立；趾大而圆；尾短；被毛短而密，毛质柔软，有光泽；被毛有单色、混合色、烟色、渐变色、条纹色5大色系，共30多种毛色。异国短毛猫由于外貌酷似波斯猫，毛短而厚呈毛茸状，曾被称为“穿着睡衣的波斯猫”</p>
+      </div>
+      <div class="col-md-5 order-md-1">       
+        <img src="images/jiafeimao.jpg" height="500px" width="500px">
+      </div>
+    </div>
+    <hr class="featurette-divider">
+
+    <div class="row featurette">
+      <div class="col-md-7">
+        <h2 class="featurette-heading">狸花猫<span class="text-muted">DragonLi</span></h2>
+        <p class="lead">狸花猫，是食肉目猫科 猫属 哺乳动物。狸花猫两耳间距较近，大小适中，耳根宽阔，耳廓深；脸颊宽阔；眼睛大而明亮，呈圆杏核状；鼻子是砖红色，有鼻线；狸花猫的体形适中，胸腔宽而深厚；四肢及尾部长短适中，健壮有力，肌肉感强；额头有斑纹；脚垫和掌毛为黑色；被毛颜色通常是棕色或深棕色，有些狸花猫身体被毛有白色。 因其有纯黄色的斑纹图案，因此又称黄狸猫、虎斑猫。</p>
+      </div>
+      <div class="col-md-5">
+        <img src="images/lihuamao.jpg" height="500px" width="500px">
+      </div>
+    </div>
+    <hr class="featurette-divider">
+
+    <div class="row featurette">
+      <div class="col-md-7 order-md-2">
+        <h2 class="featurette-heading">虎斑猫<span class="text-muted">Tabby Cat</span></h2>
+        <p class="lead">虎斑猫是食肉目猫科猫属哺乳动物。 铜棕色的底色，夹有纯黑色的斑纹图案，且有一圈较浅的铜色呈环状包围；颈略短，肌肉发达。毛型短而厚、质地生硬。带有古典虎斑图案和深浅不同的红色斑增色斑玫，两者都清晰可见；掌垫是红色或黑色。 [5]寿命12—16年。 [6]
+          虎斑猫原产美国。虎斑猫个性独立、活泼、机警， 不喜人类干预，饲养繁殖中应予考虑。性成熟5—6月龄，春季周期性持续数天发情，诱发排卵，妊娠期62—65天，窝产仔数3—6只，离乳时间6—7周。</p>
+      </div>
+      <div class="col-md-5 order-md-1">
+        
+        <img src="images/huban.jpg" height="500px" width="500px">
+      </div>
+    </div>
+   
+  <!-- FOOTER -->
+  
+</main>
+
+
+        <script src="js/jquery.slim.min.js"></script>
+		<script src="js/bootstrap.bundle.min.js"></script>
+<footer>
+        <nav>
+            <ul>
+                <li><a href="#"> 帮助中心 |</li>
+                <li> <a href="mailto:ise_Webteam@ujn.edu.cn">&nbsp;联系我们 </a>|</li>
+                <li><a href="#"> &nbsp;关于我们  </a>|</li>
+                <li><a href="#"> &nbsp;隐私声明  </a>|</li>
+                <li><a href="#"> &nbsp;意见反馈  </a></li>
+            </ul>
+        </nav>
+        <address><a href="http://www.ujn.edu.cn">Copyright &copy; 济南大学Web前端课程团队</a></address>
+    </footer>
+
+
+      
+  </body>
+</html>
